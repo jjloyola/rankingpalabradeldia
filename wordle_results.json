@@ -1,0 +1,1072 @@
+{
+  "Ina": {
+    "2025-05-02": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-03": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-04": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-10": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-13": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-14": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-16": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-17": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-18": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-19": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-20": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-22": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-26": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-27": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-28": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-29": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-30": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-31": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-01": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-02": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-03": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-05": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-06": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-07": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-08": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-09": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-10": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-11": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-12": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-13": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-14": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-15": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-16": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-17": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-19": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-20": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-21": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-22": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-23": {
+      "intento": "2",
+      "puntos": 5
+    }
+  },
+  "Vannia": {
+    "2025-04-24": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-04-26": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-04-27": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-04-28": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-02": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-03": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-04": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-05": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-10": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-12": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-13": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-14": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-15": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-16": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-17": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-18": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-20": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-21": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-22": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-24": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-26": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-28": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-30": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-31": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-01": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-02": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-03": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-05": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-06": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-07": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-08": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-09": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-10": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-11": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-12": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-13": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-14": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-15": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-16": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-17": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-06-18": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-19": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-20": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-21": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-22": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-24": {
+      "intento": "3",
+      "puntos": 4
+    }
+  },
+  "Marijo": {
+    "2025-04-25": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-04-26": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-04-28": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-02": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-03": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-05": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-08": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-09": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-13": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-14": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-16": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-17": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-18": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-19": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-20": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-22": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-23": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-26": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-27": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-28": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-29": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-30": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-31": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-01": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-02": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-03": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-05": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-06": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-07": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-08": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-09": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-10": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-11": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-06-12": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-13": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-14": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-15": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-16": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-17": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-18": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-19": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-20": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-21": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-22": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-23": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-24": {
+      "intento": "4",
+      "puntos": 3
+    }
+  },
+  "Javi": {
+    "2025-04-27": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-05": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-13": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-14": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-16": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-17": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-18": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-19": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-20": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-22": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-24": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-29": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-30": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-31": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-01": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-03": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-05": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-06": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-07": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-08": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-09": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-10": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-11": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-12": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-13": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-14": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-15": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-06-16": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-17": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-18": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-19": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-20": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-22": {
+      "intento": "5",
+      "puntos": 2
+    }
+  },
+  "Viole": {
+    "2025-04-25": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-04-26": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-04-27": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-04-28": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-02": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-03": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-05": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-08": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-09": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-12": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-13": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-14": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-15": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-16": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-17": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-18": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-19": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-20": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-21": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-22": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-24": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-26": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-28": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-29": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-30": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-31": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-01": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-02": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-03": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-05": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-06": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-07": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-08": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-09": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-10": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-11": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-12": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-13": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-14": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-15": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-16": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-17": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-18": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-06-20": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-21": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-22": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-23": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-06-24": {
+      "intento": "5",
+      "puntos": 2
+    }
+  },
+  "Seba": {
+    "2025-04-24": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-04-25": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-04-26": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-04-27": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-02": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-03": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-04": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-05": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-09": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-10": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-12": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-13": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-14": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-16": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-17": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-19": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-20": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-21": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-22": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-23": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-24": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-26": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-28": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-29": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-30": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-31": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-03": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-04": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-06-05": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-06": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-06-09": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-06-16": {
+      "intento": "No logrado",
+      "puntos": 0
+    }
+  },
+  "Fran": {
+    "2025-05-10": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-11": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-12": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-13": {
+      "intento": "4",
+      "puntos": 3
+    },
+    "2025-05-14": {
+      "intento": "3",
+      "puntos": 4
+    },
+    "2025-05-15": {
+      "intento": "2",
+      "puntos": 5
+    },
+    "2025-05-16": {
+      "intento": "6",
+      "puntos": 1
+    },
+    "2025-05-17": {
+      "intento": "5",
+      "puntos": 2
+    },
+    "2025-05-18": {
+      "intento": "No logrado",
+      "puntos": 0
+    },
+    "2025-05-23": {
+      "intento": "3",
+      "puntos": 4
+    }
+  }
+}
