@@ -1,11 +1,12 @@
 /** IDEAS
- * Añadir bootstrap
- * Setear dropdown de fecha a fecha de hoy
+ * OK -- Añadir bootstrap
+ * OK -- Setear dropdown de fecha a fecha de hoy
  * Setear solo fechas pasadas y actual con "no enviado", el resto es vacío
  * Marcar filas, y separar columnas para seguir mejor el puntaje
  * Poder revisar otros meses
  * Poder revisar puntaje por semana
  * No guardar json como localStorage, sino en un json usando un servidor
+ * Filtrar e importar archivo wsp seleccionando fechas específicas
  */
 
 
@@ -40,6 +41,12 @@ function poblarDropdownIntento() {
 		option.textContent = key;
 		selectIntento.appendChild(option);
 	});
+}
+
+function setTodayDate() {
+  const datePicker = document.getElementById("datePicker");
+  const today = new Date().toLocaleDateString('en-CA');
+  datePicker.value = today;
 }
 
 /** SECCION PERSISTENCIA - LOCALSTORAGE */
@@ -109,6 +116,12 @@ function actualizarPuntaje() {
   // Limpiar formulario
   document.getElementById("intento").value = "default";
 
+  Swal.fire({
+    title: "Datos guardados!",
+    text: "Datos guardados exitosamente!",
+    icon: "success"
+  });
+
   console.log('Datos guardados exitosamente');
 }
 
@@ -120,16 +133,28 @@ function renderTabla() {
   const tbody = document.getElementById("tbody");
   const tfoot = document.getElementById("tfoot");
 
-  thead.innerHTML = "<tr><th>Fecha</th>" + jugadores.map(j => `<th colspan="2">${j}</th>`).join("") + "</tr>";
-  thead.innerHTML += "<tr><th></th>" + jugadores.map(() => `<th>Logrado</th><th>Puntos</th>`).join("") + "</tr>";
+
+
+  thead.innerHTML = `<tr class="text-center"><th class="px-2"></th>` + jugadores.map(j => `<th colspan="2">${j}</th>`).join("") + "</tr>";
+  thead.innerHTML += `<tr class="text-center"><th class="px-2">Fecha</th>` + jugadores.map(() => `<th scope="col" class="px-1">Logrado</th><th scope="col"  class="px-3">Puntos</th>`).join("") + "</tr>";
 
   tbody.innerHTML = diasJunio.map(fecha => {
     const fechaDDMMYY = parsearFechaDDMMYY(fecha);
-    let fila = `<tr><td>${fechaDDMMYY}</td>`;
+    let fila = `<tr><th scope="row" class="text-center px-2">${fechaDDMMYY}</td>`;
     jugadores.forEach(j => {
       const intento = tabla[j][fecha]?.intento ?? "";
       const puntos = tabla[j][fecha]?.puntos ?? "";
-      fila += `<td>${intento}</td><td>${puntos}</td>`;
+
+      // Asignar clase según el intento
+      let intentoClass = "text-center px-1";
+      if (intento === "No logrado" || intento === "1") intentoClass += " table-warning"; //yellow
+      else if (intento === "No enviado") intentoClass += " table-danger"; //red
+      else intentoClass += " table-success"; //green
+
+      let puntosClass = "text-center px-3";
+
+      fila += `<td class="${intentoClass}">${intento}</td><td class="${puntosClass}">${puntos}</td>`;
+      //fila += `<td class="${intentoClass}">${intento}</td><td class="${puntosClass}">${puntos}</td>`;
     });
     fila += "</tr>";
     return fila;
@@ -142,7 +167,7 @@ function renderTabla() {
       const puntos = tabla[j][f]?.puntos;
       if (typeof puntos === "number") suma += puntos;
     });
-    filaTotal.push("<td></td><td>" + suma + "</td>");
+    filaTotal.push("<td></td><td class='fw-bold text-center'>" + suma + "</td>");
   });
   tfoot.innerHTML = `<tr>${filaTotal.join("")}</tr>`;
 }
@@ -219,6 +244,7 @@ function limpiarDatos() {
 }
 
 
+setTodayDate();
 poblarDropdownIntento();
 cargarDatosDelLocalStorage();
 inicializarTablaConValoresPorDefecto();
